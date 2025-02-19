@@ -1,0 +1,150 @@
+hr {
+  border: none;
+  border-top: 6px dotted #CAE0BC;
+  width: 4.9%;
+}
+
+body {
+  background-color: #F7F7F7;
+  margin: 0px;
+  text-align: center;
+  font-family: "Literata", serif
+
+}
+
+h1{
+  margin: 0 auto 40px auto;
+  font-family: "Kaushan Script", serif;
+  font-size: 4.375rem;
+  color: #578E7E;
+}
+
+h2 {
+  font-size: 2.5em;
+  color: #578E7E;
+  font-family: "Lato", serif;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 1.7em;
+  color: #578E7E;
+  font-family: "Lato", serif;
+  font-weight: normal;
+}
+
+p {
+  font-size: 1.1875rem;
+  line-height: 2;
+  color: #123524;
+}
+
+a {
+  font-size: 1.2rem;
+  font-family: "Lato", serif;
+  color: #578E7E;
+  text-decoration: none;
+}
+
+.h2-content{
+  margin: 0;
+}
+
+.top-container {
+  padding-top: 150px;
+  margin: 0px;
+  background-color: #edfae9;
+}
+
+.up-cloud {
+  position: absolute;
+  right: 300px;
+  top:150px;
+}
+
+.down-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 500px
+}
+
+.img-container {
+  background-color: #EAFAEA;
+  width: 100%;
+  max-height: 360px;
+}
+
+.bg {
+  margin: 0;
+  width: 800px;
+  height: 360px;
+  border: none;
+}
+
+.middle-container {
+
+}
+
+.contact-me {
+  margin: 100px auto 75px auto;
+}
+
+.contact-p {
+  margin-bottom: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Lato", serif;
+  color: #F7F7F7;
+  font-size: 1.2rem;
+  background: #6E8E59;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #6E8E59;
+  text-decoration: none;
+}
+
+.bottom-container {
+  margin-top: 130px;
+  height: 170px;
+  background-color: #CAE0BC;
+}
+
+.p-name {
+  margin-bottom: 0;
+  color: #578E7E;
+  position: relative;
+  top: 60px;
+  font-size: 1rem;
+}
+
+.footer-link {
+  margin: auto 25px auto 25px;
+  position: relative;
+  top: 50px;
+}
+
+.contents-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.duck-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+/* font-family: "Lato", serif
+   font-family: "Tangerine", serif;
+   font-family: "Kaushan Script", serif;
+   font-family: "Literata", serif;
+ */
